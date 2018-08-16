@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="label" max_length="40" name="option" type="collection">
+        <element attributes="omit_sys_original=true" label="Currency" max_length="20" name="x_58872_needit_u_currency_1" type="currency"/>
+    </element>
+</database>
